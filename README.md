@@ -1,4 +1,4 @@
-# Welcome to the JC Travels Solution [ Project Code: 008]  🎓
+# Welcome to the HotelSuite Travels Solution [ Project Code: 008]  🎓
 
 🌐 Explore, Book, Enjoy - Your Ultimate Hotel Booking Solution
 
@@ -11,28 +11,6 @@ its A hotel booking management platform for the travellers. I led end to end des
 💾 Data Integrity with MongoDB: Implemented MongoDB for reliable database backend, securing user data, hotels/listing data, transactions.
 
 👤 Personalized User Interaction: Enabled user registration, login, and hotel/listing management such as reservations and hosting hotels. Based on user role user can create a list or reserve a place. All of user listing/reservations can be controlled from personalized dashboard.
-
-
-# Production Server Down issue
-Dear User,
-
-I hope this message finds you well.
-
-We have received many query regarding the functionality of our website. After a thorough review, we have identified that the backend server is currently down, which may be affecting certain functionalities. Our technical team is actively working to resolve this issue as quickly as possible.
-
-We apologize for any inconvenience this may cause and appreciate your patience. All other aspects of the website are functioning correctly.
-
-Additionally, the code provided in our GitHub repository is fully updated and can be deployed if you wish to handle the deployment yourself. Please note that our backend cloud service subscription has expired, which is causing a delay in the deployment process.
-
-Unfortunately, due to a lack of funding, we will also be shutting down the website's frontend. We are exploring options to secure the necessary resources to bring the entire platform back online in the near future.
-
-If you have any further questions or need additional assistance, please do not hesitate to contact us.
-
-Thank you for your understanding.
-
-Best regards,
-
-JourneyCusine
 
 
 ## Features:
@@ -59,12 +37,6 @@ Database: MongoDB Atlas.
 
 Dependencies: React icons, React elastic carousel, Leaflet Maps, Country-state-city, React-hot-toast, React-spinners, Recharts.
 ```
-### Testing performed by { Arnab Das , Sk sahil }
-1. Netlify Cloud Live Test version : https://journeycusine.netlify.app
-### Final Deployed Version by { Sk Mirajul Islam }
-2. Vercel Cloud Live final version: https://journey-cusine.vercel.app/
-### Backend API is Hosted by { Sk Mirajul Islam }
-3. AWS - Railway Cloud https://railway.app { its an paid Cloud, you can deploy here your nodejs | expressjs API}
 
 ## Images
 <div style="display: flex; align-items: center;">
@@ -85,11 +57,6 @@ Dependencies: React icons, React elastic carousel, Leaflet Maps, Country-state-c
 
 
 ## Usage
-
-**For cloning** 
-```
- git clone https://github.com/skmirajulislam/JourneyCusine.git
-```
 
 **Change Diractory**
 ```
@@ -131,29 +98,6 @@ for Backend directory Run this command :
 ```
 
 
-## contributors
-
-A heartfelt thank you to all the amazing contributors who have poured their time, expertise, and passion into making the JC project a success. Your dedication and hard work have truly elevated the project to new heights..
-
-Thank you, JC contributors, for your hard work, dedication, and for being an integral part of this incredible community.
-
-Keep coding brilliantly!
-
-1. **Sk Mirajul islam** - Project Leader & Full-Stack and backend Developer Lead 
-2. **Susshrita Jana** - Frontend Developer 
-3. **Soumye** -  Work-Flow & Frontend Developer
-4. **Aishiki Mondal** - UI Developer
-5. **Arnab Das** - Quality Assurance & Frontend Developer Lead
-6. **Sk Sahil** - Custom Support & Frontend Developer
-
-## License
-
-- [MIT](https://github.com/skmirajulislam/JourneyCusine/blob/master/MIT-LICENSE)
-- [Mozilla Public License 2.0](https://github.com/skmirajulislam/JourneyCusine/blob/master/MOZILA-FIREFOX-LICENSE)
-
-## Connect 
-For any query regarding this project, for industrial / private use and contribution connect through email given below. thanks for your time and consideration.
-skmirajulislam181@gmail.com
 
 
 
