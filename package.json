@@ -1,0 +1,12 @@
+{
+  "name": "journeycusine-master",
+  "version": "1.0.0",
+  "description": "🌐 Explore, Book, Enjoy - Your Ultimate Hotel Booking Solution",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
